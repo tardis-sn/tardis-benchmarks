@@ -1,0 +1,19 @@
+{
+    "benchmark_run_tardis.Benchmarkruntardis.time_run_tardis": {
+        "code": "class Benchmarkruntardis:\n    def time_run_tardis(self):\n        sim = run_tardis(self.config, log_level=\"ERROR\", show_progress_bars=False)\n\n    def setup(self):\n        filename = \"tardis_configv1_benchmark.yml\"\n        dir_path = os.path.dirname(os.path.realpath(__file__))\n        path = os.path.join(dir_path, \"data\", filename)\n        config = Configuration.from_yaml(path)\n        config.atom_data = \"kurucz_cd23_chianti_H_He.h5\"\n        self.config = config",
+        "min_run_count": 2,
+        "name": "benchmark_run_tardis.Benchmarkruntardis.time_run_tardis",
+        "number": 0,
+        "param_names": [],
+        "params": [],
+        "repeat": 0,
+        "rounds": 2,
+        "sample_time": 0.01,
+        "timeout": 200,
+        "type": "time",
+        "unit": "seconds",
+        "version": "8e45b8cb681be7a0493d90f283675c46e65af0ce50064f9506c93080f56d4df0",
+        "warmup_time": -1
+    },
+    "version": 2
+}
