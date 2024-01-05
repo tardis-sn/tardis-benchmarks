@@ -1,1 +1,1 @@
-{"regressions": [["benchmark_run_tardis.Benchmarkruntardis.time_run_tardis", "graphs/arch-x86_64/branch-master/cpu-AMD EPYC 7763 64-Core Processor/machine-fv-az1269-544/num_cpu-4/os-Linux 6.2.0-1018-azure/python-3.12/ram-16365028/benchmark_run_tardis.Benchmarkruntardis.time_run_tardis.json", {}, null, 0.7390741729999775, 0.6998283835000052, [[null, 4968, 0.6998283835000052, 0.7390741729999775]]]]}
+{"regressions": []}
