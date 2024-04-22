@@ -1,7 +1,7 @@
 {
     "arch": "x86_64",
     "cpu": "AMD EPYC 7763 64-Core Processor",
-    "machine": "fv-az1200-164",
+    "machine": "fv-az1055-940",
     "num_cpu": "4",
     "os": "Linux 6.5.0-1018-azure",
     "ram": "16364596",
