@@ -1,1 +1,1 @@
-{"regressions": []}
+{"regressions": [["transport_montecarlo_interaction.BenchmarkTransportMontecarloInteraction.time_line_emission", "graphs/arch-x86_64/branch-HEAD/cpu-AMD EPYC 7763 64-Core Processor/env-TARDIS_REF_PATH-tardis-regression-data_atom_data/machine-pkrvmjbmru5nbw0/num_cpu-4/os-Linux 6.11.0-1018-azure/python-3.12/ram-16379472/transport_montecarlo_interaction.BenchmarkTransportMontecarloInteraction.time_line_emission.json", {"branch": "HEAD"}, null, 4.617500007952913e-05, 4.0564999835623894e-05, [[5674, 5710, 4.0564999835623894e-05, 4.617500007952913e-05]]]]}
