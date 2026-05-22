@@ -1,1 +1,1 @@
-{"regressions": []}
+{"regressions": [["run_tardis.BenchmarkRunTardis.time_run_tardis_rpacket_tracking", "graphs/arch-x86_64/branch-HEAD/cpu-AMD EPYC 9V74 80-Core Processor/env-TARDIS_REF_PATH-tardis-regression-data_atom_data/machine-runnervmg397c/num_cpu-4/os-Linux 6.17.0-1013-azure/python-3.12/ram-16373464/run_tardis.BenchmarkRunTardis.time_run_tardis_rpacket_tracking.json", {"branch": "HEAD"}, null, 84.44437334999998, 80.15401334449996, [[6330, 6338, 80.15401334449996, 84.44437334999998]]]]}
