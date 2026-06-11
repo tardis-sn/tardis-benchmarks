@@ -1,1 +1,1 @@
-{"regressions": [["spectrum_formal_integral.BenchmarkTransportMontecarloFormalIntegral.time_intensity_black_body", "graphs/arch-x86_64/branch-HEAD/cpu-AMD EPYC 7763 64-Core Processor/env-TARDIS_REF_PATH-tardis-regression-data_atom_data/machine-runnervm3jyl0/num_cpu-4/os-Linux 6.17.0-1015-azure/python-3.12/ram-16377688/spectrum_formal_integral.BenchmarkTransportMontecarloFormalIntegral.time_intensity_black_body.json", {"branch": "HEAD"}, null, 4.889026173073765e-07, 4.6330451844287817e-07, [[6383, 6387, 4.6330451844287817e-07, 4.889026173073765e-07]]]]}
+{"regressions": []}
