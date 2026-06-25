@@ -1,1 +1,1 @@
-{"regressions": [["opacities_opacity_state.BenchmarkOpacitiesOpacityState.time_opacity_state_initialize('macroatom')", "graphs/arch-x86_64/branch-HEAD/cpu-Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz/env-TARDIS_REF_PATH-tardis-regression-data_atom_data/machine-runnervmmklqx/num_cpu-4/os-Linux 6.17.0-1018-azure/python-3.12/ram-16372444/opacities_opacity_state.BenchmarkOpacitiesOpacityState.time_opacity_state_initialize.json", {"branch": "HEAD"}, 1, 0.008572975499987479, 0.007663143749994106, [[null, 6407, 0.007663143749994106, 0.008572975499987479]]]]}
+{"regressions": []}
